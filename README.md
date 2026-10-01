@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/9339k1mp/Black-and-White-Minimalist-SEO-Minimalist-Linked-In-Banner.png" width="100%">
+<img src="https://i.ibb.co.com/wFDnkR83/Black-and-White-Minimalist-SEO-Minimalist-Linked-In-Banner-1.png" width="100%">
 
 <h1 align="center">Hi 👋, I'm Asad Ullah Shamim</h1>
 
