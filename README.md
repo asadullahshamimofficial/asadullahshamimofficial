@@ -83,8 +83,7 @@ I started my journey with frontend development and gradually expanded into backe
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app?user=asadullahshamimofficial&theme=dark" alt="GitHub Streak" />
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=asadullahshamimofficial&theme=dark)](https://git.io/streak-stats)
 </div>
 
 ---
