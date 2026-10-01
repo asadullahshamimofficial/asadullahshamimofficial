@@ -75,7 +75,7 @@ I started my journey with frontend development and gradually expanded into backe
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AUS8970&show_icons=true&count_private=true&theme=dark&hide_border=false" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=asadullahshamimofficial&show_icons=true&count_private=true&theme=dark&hide_border=false" alt="GitHub Stats" />
 
 </div>
 
@@ -83,7 +83,7 @@ I started my journey with frontend development and gradually expanded into backe
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app?user=AUS8970&theme=dark" alt="GitHub Streak" />
+<img src="https://nirzak-streak-stats.vercel.app?user=asadullahshamimofficial&theme=dark" alt="GitHub Streak" />
 
 </div>
 
@@ -93,7 +93,7 @@ I started my journey with frontend development and gradually expanded into backe
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AUS8970&layout=compact&theme=dark" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahshamimofficial&layout=compact&theme=dark" alt="Top Languages" />
 
 </div>
 
