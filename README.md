@@ -92,7 +92,7 @@ I started my journey with frontend development and gradually expanded into backe
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahshamimofficial&layout=compact&theme=dark" alt="Top Languages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=asadullahshamimofficial&langs_count=4&theme=dark_github" alt="Top Languages" />
 
 </div>
 
