@@ -75,7 +75,7 @@ I started my journey with frontend development and gradually expanded into backe
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=asadullahshamimofficial&show_icons=true&count_private=true&theme=dark&hide_border=false" alt="GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api?username=asadullahshamimofficial&show_icons=true&count_private=true&theme=dark&hide_border=false" alt="GitHub Stats" />
 
 </div>
 
